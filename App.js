@@ -28,7 +28,7 @@ import {SafeAreaView} from 'react-native';
 
 import styles from './weavy/weavy-styles';
 import UserProvider from './weavy/weavy-user-provider';
-import ConnectionProvider from './weavy-connection-provider';
+import ConnectionProvider from './weavy/weavy-connection-provider';
 import WeavyNav from './navigation/weavy-nav';
 
 const App = () => {
